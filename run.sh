@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello world_Update"
+echo "Hello world_Update From Image"
  
